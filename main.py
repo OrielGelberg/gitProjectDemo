@@ -1,3 +1,3 @@
 print(21)
-x = 55
+x = 5
 print(x)
